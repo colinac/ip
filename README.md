@@ -1,5 +1,7 @@
 # Bob
 
+**Bob** is a simple chatbot application written in Java and developed for NUS' CS2103T Software Engineering Course.
+
 ![Screenshot of Bob's GUI.](./docs/Ui.png)
 
 Bob is a chatbot that manages your todos, events and deadlines,
