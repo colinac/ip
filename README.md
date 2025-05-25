@@ -4,7 +4,7 @@
 
 ![Screenshot of Bob's GUI.](./docs/Ui.png)
 
-Bob is a chatbot that manages your todos, events and deadlines,
+Bob manages your todos, events and deadlines,
 allowing you to mark, unmark, add, delete and list these tasks. 
 In addition, he can help to summarise the tasks you have completed in the
 past week, or any range you specify.
